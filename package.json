@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.11.0",
+    "graphql-tag": "^2.10.3"
+  }
+}
